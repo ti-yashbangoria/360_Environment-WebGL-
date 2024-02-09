@@ -6815,6 +6815,7 @@ MonoBehaviour:
   directionVector: {x: 0, y: 0, z: 0}
   cameraVelocity: {x: 0, y: 0, z: 0}
   sensitivity: 10
+  mouseSensitivity: 4
   verticalRotation: 70
   canMove: 1
 --- !u!4 &2048774938
